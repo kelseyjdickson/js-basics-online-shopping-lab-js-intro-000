@@ -12,7 +12,7 @@ function setCart(c) {
 function addToCart(item) {
  // write your code here
  let itemOb = {
-   itemName: ${name},
+   itemName: ${item},
    itemPrice: Math.random(1) * Math.floor();
  }
 }
